@@ -83,6 +83,9 @@ a {
   line-height: 42px;
   color: #666;
 }
+.user img {
+  vertical-align: middle;
+}
 .banner {
   height: 421px;
   background-color: #1c036c;
